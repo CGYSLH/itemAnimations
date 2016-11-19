@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CardViewTest01.iml" filepath="$PROJECT_DIR$/CardViewTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item的进入过渡动画/item的进入过渡动画.iml" filepath="$PROJECT_DIR$/item的进入过渡动画/item的进入过渡动画.iml" />
+    </modules>
+  </component>
+</project>
